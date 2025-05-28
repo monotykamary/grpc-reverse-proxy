@@ -1,5 +1,7 @@
 # gRPC Reverse Proxy
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/template/kkr4w6?referralCode=ZqgrJ0)
+
 This project provides a simple gRPC reverse proxy using Caddy. It is designed to be run as a Docker container and forwards gRPC traffic to a backend service.
 
 ## How it Works
